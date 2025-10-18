@@ -1,0 +1,18 @@
+[settings]
+lockfile = true
+python.uv_venv_auto = true
+
+[tools.argocd]
+version = "3"
+
+[tools.k9s]
+version = "0.50"
+
+[tools.helm]
+version = "3"
+
+[tools.kubectl]
+version = "1.32"
+
+[tools.stern]
+version = "1.33"
